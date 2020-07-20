@@ -10,7 +10,14 @@ Enables input of custom boards to generate quick solutions for any external puzz
 
 ## Project Screenshots
 ![4×4 puzzle]()
-![4×4 solution]()
+![4×4 solution]()<br>
 
 ![9×9 puzzle]()
 ![9x9 solution]()
+
+## Running the game
+-Ensure you have python 3 installed,<br>
+-Ensure you have pygame module installed, to install<br>
+ Type `pip install pygame` in the terminal or command prompt<br>
+-Clone the project and run `sudokuGUI.py`, to run<br>
+`python sudokuGUI.py`

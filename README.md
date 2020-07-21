@@ -9,11 +9,11 @@ includes 9×9 and 4×4 grids...<br>
 Enables input of custom boards to generate quick solutions for any external puzzles a user might have
 
 ## Project Screenshots
-![4×4 puzzle]()
-![4×4 solution]()<br>
+![4×4 puzzle](https://github.com/K-Kelvin/Sudoku-GUI/screenshots/image1.png)
+![4×4 solution](screenshots/image2.png)<br>
 
-![9×9 puzzle]()
-![9x9 solution]()
+![9×9 puzzle](screenshots/image3.png)
+![9x9 solution](screenshots/image4.png)
 
 ## Running the game
 -Ensure you have python 3 installed,<br>

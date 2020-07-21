@@ -9,8 +9,10 @@ includes 9×9 and 4×4 grids...<br>
 Enables input of custom boards to generate quick solutions for any external puzzles a user might have
 
 ## Project Screenshots
+4×4
 <img src="https://raw.githubusercontent.com/K-Kelvin/Sudoku-GUI/master/screenshots/image1.jpg"></img>
 <img src="https://raw.githubusercontent.com/K-Kelvin/Sudoku-GUI/master/screenshots/image2.jpg"></img><br>
+9×9
 <img src="https://raw.githubusercontent.com/K-Kelvin/Sudoku-GUI/master/screenshots/image3.jpg"></img>
 <img src="https://raw.githubusercontent.com/K-Kelvin/Sudoku-GUI/master/screenshots/image4.jpg"></img>
 

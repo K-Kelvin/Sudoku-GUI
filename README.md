@@ -9,11 +9,11 @@ includes 9×9 and 4×4 grids...<br>
 Enables input of custom boards to generate quick solutions for any external puzzles a user might have
 
 ## Project Screenshots
-![![4×4 puzzle](screenshots/image1.jpg)](#)
-![![4×4 solution](screenshots/image2.jpg)](#)<br>
+[![4×4 puzzle](screenshots/image1.jpg)](#)
+[![4×4 solution](screenshots/image2.jpg)](#)<br>
 
-![![9×9 puzzle](screenshots/image3.jpg)](#)
-![![9x9 solution](screenshots/image4.jpg)](#)
+[![9×9 puzzle](screenshots/image3.jpg)](#)
+[![9x9 solution](screenshots/image4.jpg)](#)
 
 ## Running the game
 -Ensure you have python 3 installed,<br>
